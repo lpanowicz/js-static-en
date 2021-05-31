@@ -1,0 +1,48 @@
+﻿/* layout */
+.row,
+.col,
+.stack > div
+{
+    box-sizing:border-box;
+    -moz-box-sizing:border-box; /* Firefox */
+    -webkit-box-sizing:border-box; /* Safari */   
+}
+
+.row:after 
+{
+    content:"";
+    display: table;
+    clear: both;
+}
+
+.col 
+{
+	width: 100%;
+	padding: 20px;
+    float: left
+}
+
+.col.narrow 
+{
+    width: 32%;
+}
+
+.col.large 
+{
+    width: 66%;
+}
+
+.col.uniform
+{
+    width: 48%;
+}
+
+.col.mostright
+{
+float: right;
+}
+
+.stack > div 
+{
+    height: 50%;
+}
