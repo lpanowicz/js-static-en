@@ -415,12 +415,12 @@ div.main-menu li.link_gallery a
 width: 65px;
 height: 29px;
 margin-top: 10px;
-background: url(images/gallery.png) 0 0 no-repeat;
+background: url(../images/gallery.png) 0 0 no-repeat;
 }
 
 div.main-menu li.link_gallery a:hover
 {
-background: url(images/gallery.png) 0 -29px no-repeat;
+background: url(../images/gallery.png) 0 -29px no-repeat;
 }
 
 div.main-menu li.link_repertoire a
@@ -428,12 +428,12 @@ div.main-menu li.link_repertoire a
 width: 91px;
 height: 26px;
 margin-top: 13px;
-background: url(images/repertoire.png) 0 0 no-repeat;
+background: url(../images/repertoire.png) 0 0 no-repeat;
 }
 
 div.main-menu li.link_repertoire a:hover
 {
-background: url(images/repertoire.png) 0 -26px no-repeat;
+background: url(../images/repertoire.png) 0 -26px no-repeat;
 }
 
 div.main-menu li.link_multimedia a
@@ -441,12 +441,12 @@ div.main-menu li.link_multimedia a
 width: 102px;
 height: 22px;
 margin-top: 10px;
-background: url(images/multimedia.png) 0 0 no-repeat;
+background: url(../images/multimedia.png) 0 0 no-repeat;
 }
 
 div.main-menu li.link_multimedia a:hover
 {
-background: url(images/multimedia.png) 0 -22px no-repeat;
+background: url(../images/multimedia.png) 0 -22px no-repeat;
 }
 
 div.main-menu li.link_calendar a
@@ -454,12 +454,12 @@ div.main-menu li.link_calendar a
 width: 83px;
 height: 22px;
 margin-top: 10px;
-background: url(images/calendar.png) 0 0 no-repeat;
+background: url(../images/calendar.png) 0 0 no-repeat;
 }
 
 div.main-menu li.link_calendar a:hover
 {
-background: url(images/calendar.png) 0 -22px no-repeat;
+background: url(../images/calendar.png) 0 -22px no-repeat;
 }
 
 div.main-menu li.link_press a
@@ -467,12 +467,12 @@ div.main-menu li.link_press a
 width: 49px;
 height: 19px;
 margin-top: 13px;
-background: url(images/press.png) 0 0 no-repeat;
+background: url(../images/press.png) 0 0 no-repeat;
 }
 
 div.main-menu li.link_press a:hover
 {
-background: url(images/press.png) 0 -19px no-repeat;
+background: url(../images/press.png) 0 -19px no-repeat;
 }
 
 div.main-menu li.link_contact a
@@ -480,10 +480,10 @@ div.main-menu li.link_contact a
 width: 72px;
 height: 19px;
 margin-top: 13px;
-background: url(images/contact.png) 0 0 no-repeat;
+background: url(../images/contact.png) 0 0 no-repeat;
 }
 
 div.main-menu li.link_contact a:hover
 {
-background: url(images/contact.png) 0 -19px no-repeat;
+background: url(../images/contact.png) 0 -19px no-repeat;
 }
